@@ -1,0 +1,4 @@
+= Monitoring Stack
+include::ROOT:partial$vars.adoc[]
+
+include::ROOT:partial$README.adoc[]

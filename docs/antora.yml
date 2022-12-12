@@ -1,0 +1,7 @@
+---
+name: monitoring
+title: Monitoring Stack
+version: main
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc
